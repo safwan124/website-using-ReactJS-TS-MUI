@@ -1,0 +1,18 @@
+.navbar{
+    /* background-color: black; */
+    height: 4rem;
+    padding: 0%;
+}
+.nav-link{
+    color: azure;
+}
+.links {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+.link{
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+}
